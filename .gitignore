@@ -1,4 +1,6 @@
 .vagrant/
-devel/runc
-devel/containerd
-devel/moby
+runc
+containerd
+moby
+docker-on-freebsd-ports
+docker-on-freebsd-artifacts
